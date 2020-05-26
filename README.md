@@ -1,3 +1,8 @@
+## 楽しいRPA開発にようこそ！
+* RPAやITでお困りでないですか？
+* RPAツール購入、受託開発、技術者派遣等、ITに関することなら多岐にわたり優秀なビジネスパートナーを紹介できます。
+* お問い合わせは![Twitter](https://twitter.com/TBTB_Studio)へどうぞ
+
 # RPA Tasty
 
 * RPA TastyはRPA開発を楽しくおいしくするツールです。
@@ -25,10 +30,6 @@
 1. コネクターPathには"RPA_Tasty_Connector\rpa-tasty-connector.exe"のフルパスを入力してください。
 2. あとは取得したいグループ + Keyを入力するだけ
 * ![画像3](https://user-images.githubusercontent.com/51879993/82854779-6b98f400-9f44-11ea-9cfb-63a02ad23d96.PNG)
-
-## 楽しいRPA開発にようこそ！
-## RPAやIT関連の相談に乗れます。
-## RPAツールの購入、受託開発や人材派遣で優秀なビジネスパートナーを紹介できます。
 
 
 
